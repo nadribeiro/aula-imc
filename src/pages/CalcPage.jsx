@@ -15,7 +15,7 @@ export default function CalcPage() {
       altura: 1.65,
       peso: 90,
       imc: 33.06,
-      mensagem: "Obesidade II",
+      mensagem: "Obesidade I",
     },
     {
       altura: 1.55,
